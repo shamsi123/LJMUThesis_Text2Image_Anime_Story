@@ -1,0 +1,15 @@
+{
+  "model": "Proposal-Pipeline (BaseLM + ViT + X-LXMERT)",
+  "FID": 20.293,
+  "IS": 1.015,
+  "CLIP-T": 0.2003,
+  "CLIP-I": 0.6105,
+  "Face-ID": "n/a",
+  "n_test": 50,
+  "components": {
+    "base_lm": "Vaswani encoder (notebook 01, frozen)",
+    "vit": "ViT-B/16 from ViTGPT2 (notebook 03b, frozen)",
+    "integrator": "5-layer LXMERT cross-modal (~24.5 M params)",
+    "decoder": "SPADE residual blocks (re-used from 02b)"
+  }
+}

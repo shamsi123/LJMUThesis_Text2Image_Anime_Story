@@ -1,0 +1,8 @@
+Model,FID,IS,CLIP-T,CLIP-I,Face-ID,Emo-CLIP,Emo-CLIP-overt,Source,N
+X-LXMERT (Cho 2020)*,37.4,13.2,,,,,,Published (COCO),
+ViT-GPT-2 + vanilla SD,499.441,1.0,0.126,0.398,0.377,0.5,0.5,Anime test set (ours),
+ViT-GPT-2 + StyleBoost,499.441,1.0,0.126,0.398,0.377,0.5,0.5,Anime test set (ours),
+ViT-GPT-2 + Vaswani + StyleBoost,499.441,1.0,0.126,0.398,0.377,0.5,0.5,Anime test set (ours),
+AnimeStoryGen (full),499.441,1.0,0.126,0.398,0.377,0.5,0.5,Anime test set (ours),
+AnimeStoryGenOpenAI,16.384,1.387,0.175,0.74,0.564,0.333,0.0,Anime test set (ours),6.0
+AnimeStoryGenMistral,11.526,1.268,0.207,0.821,0.602,0.167,0.333,Anime test set (ours),6.0

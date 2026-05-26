@@ -1,0 +1,105 @@
+{
+  "title": "Under the Whispering Tree",
+  "characters": [
+    {
+      "id": "A",
+      "description": "long, flowing pink hair with a braid, bright green eyes, 16 years old, wearing a light blue summer dress with white flowers"
+    },
+    {
+      "id": "B",
+      "description": "short, spiky blue hair, deep brown eyes, 17 years old, dressed in a casual white t-shirt and denim shorts"
+    }
+  ],
+  "scenes": [
+    {
+      "caption": "A serene afternoon with sunlight filtering through the leaves as A sits comfortably under a large tree.",
+      "emotion": "calmness",
+      "present": [
+        "A",
+        "B"
+      ],
+      "spatial": "A sitting under the tree, B leaning against the trunk",
+      "action": "A smiles gently, B looks relaxed",
+      "dialogue": []
+    },
+    {
+      "caption": "A glances up at B, her eyes sparkling with curiosity as she asks a question.",
+      "emotion": "curiosity",
+      "present": [
+        "A",
+        "B"
+      ],
+      "spatial": "A looking up at B, B looking down at A",
+      "action": "A tilts her head slightly",
+      "dialogue": [
+        {
+          "speaker": "A",
+          "text": "What do you think about our summer plans?"
+        }
+      ]
+    },
+    {
+      "caption": "B chuckles, brushing a hand through his hair while considering her question.",
+      "emotion": "wonder",
+      "present": [
+        "A",
+        "B"
+      ],
+      "spatial": "B still leaning against the trunk, A sitting cross-legged",
+      "action": "B looks thoughtful",
+      "dialogue": [
+        {
+          "speaker": "B",
+          "text": "I think it could be an adventure!"
+        }
+      ]
+    },
+    {
+      "caption": "A's face lights up with happiness, her laughter ringing through the air.",
+      "emotion": "happiness",
+      "present": [
+        "A",
+        "B"
+      ],
+      "spatial": "A leaning forward excitedly, B grinning",
+      "action": "A claps her hands together",
+      "dialogue": [
+        {
+          "speaker": "A",
+          "text": "I can't wait to explore!"
+        }
+      ]
+    },
+    {
+      "caption": "Suddenly, a gentle breeze rustles the leaves, creating a moment of serene silence.",
+      "emotion": "calmness",
+      "present": [
+        "A",
+        "B"
+      ],
+      "spatial": "Both characters centered under the tree",
+      "action": "Both characters close their eyes, enjoying the moment",
+      "dialogue": []
+    },
+    {
+      "caption": "As the sun begins to set, A and B share their dreams, their voices filled with determination.",
+      "emotion": "determination",
+      "present": [
+        "A",
+        "B"
+      ],
+      "spatial": "A facing B directly, both sitting closely",
+      "action": "A gestures passionately, B nods in agreement",
+      "dialogue": [
+        {
+          "speaker": "B",
+          "text": "Let's make sure we make the most of it."
+        },
+        {
+          "speaker": "A",
+          "text": "Absolutely! Together, we can do anything!"
+        }
+      ]
+    }
+  ]
+}

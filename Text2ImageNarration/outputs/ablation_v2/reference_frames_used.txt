@@ -1,0 +1,10 @@
+/content/drive/MyDrive/Text2ImageNarration/data/processed/anime_256/1896.jpg
+/content/drive/MyDrive/Text2ImageNarration/data/processed/anime_256/1922.jpg
+/content/drive/MyDrive/Text2ImageNarration/data/processed/anime_256/1993.jpg
+/content/drive/MyDrive/Text2ImageNarration/data/processed/anime_256/1791.jpg
+/content/drive/MyDrive/Text2ImageNarration/data/processed/anime_256/1860.jpg
+/content/drive/MyDrive/Text2ImageNarration/data/processed/anime_256/1879.jpg
+/content/drive/MyDrive/Text2ImageNarration/data/processed/anime_256/1831.jpg
+/content/drive/MyDrive/Text2ImageNarration/data/processed/anime_256/1829.jpg
+/content/drive/MyDrive/Text2ImageNarration/data/processed/anime_256/1959.jpg
+/content/drive/MyDrive/Text2ImageNarration/data/processed/anime_256/1875.jpg

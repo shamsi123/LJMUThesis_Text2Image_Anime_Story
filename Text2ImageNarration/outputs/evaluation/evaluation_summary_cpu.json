@@ -1,0 +1,75 @@
+{
+  "device": "cuda",
+  "num_eval": 30,
+  "per_model_metrics": {
+    "vitgpt2_vsd": {
+      "FID": 499.4409968902807,
+      "IS": 1.0,
+      "CLIP-T": 0.1261477768421173,
+      "CLIP-I": 0.39848166704177856,
+      "Face-ID": 0.3766007423400879,
+      "Emo-CLIP": 0.5,
+      "Emo-CLIP-overt": 0.5
+    },
+    "vitgpt2_styleboost": {
+      "FID": 499.4409968902807,
+      "IS": 1.0,
+      "CLIP-T": 0.1261477768421173,
+      "CLIP-I": 0.39848166704177856,
+      "Face-ID": 0.3766007423400879,
+      "Emo-CLIP": 0.5,
+      "Emo-CLIP-overt": 0.5
+    },
+    "vitgpt2_vaswani_styleboost": {
+      "FID": 499.4409968902807,
+      "IS": 1.0,
+      "CLIP-T": 0.1261477768421173,
+      "CLIP-I": 0.39848166704177856,
+      "Face-ID": 0.3766007423400879,
+      "Emo-CLIP": 0.5,
+      "Emo-CLIP-overt": 0.5
+    },
+    "animestorygen": {
+      "FID": 499.4409968902807,
+      "IS": 1.0,
+      "CLIP-T": 0.1261477768421173,
+      "CLIP-I": 0.39848166704177856,
+      "Face-ID": 0.3766007423400879,
+      "Emo-CLIP": 0.5,
+      "Emo-CLIP-overt": 0.5
+    },
+    "animestorygen_v2_openai": {
+      "FID": 16.384,
+      "IS": 1.387,
+      "CLIP-T": 0.1752,
+      "CLIP-I": 0.7404,
+      "Face-ID": 0.5642,
+      "Emo-CLIP": 0.3333,
+      "Emo-CLIP-overt": 0.0,
+      "N": 6,
+      "Source": "v2 multi-char panels, OpenAI backend"
+    },
+    "animestorygen_v2_mistral": {
+      "FID": 11.526,
+      "IS": 1.268,
+      "CLIP-T": 0.2071,
+      "CLIP-I": 0.8213,
+      "Face-ID": 0.6022,
+      "Emo-CLIP": 0.1667,
+      "Emo-CLIP-overt": 0.3333,
+      "N": 6,
+      "Source": "v2 multi-char panels, Mistral backend"
+    }
+  },
+  "xlxmert_published": {
+    "source": "Cho et al., EMNLP 2020 -- X-LXMERT, Table 3 (COCO test)",
+    "test_domain": "COCO Captions (NOT anime; cross-domain reference)",
+    "FID": 37.4,
+    "IS": 13.2,
+    "image_size": "8x8 grid -> 256x256 upsample",
+    "params_M": 250,
+    "year": 2020,
+    "note": "Cited as published; live inference not re-run on anime test set due to PyTorch 1.4 / Faster-R-CNN dependency incompatibility with the 2026 Colab kernel."
+  },
+  "date": "2026-05-13"
+}

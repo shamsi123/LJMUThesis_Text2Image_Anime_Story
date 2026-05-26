@@ -1,0 +1,130 @@
+{
+  "title": "Under the Tree",
+  "characters": [
+    {
+      "id": "girl",
+      "description": "A thoughtful girl with long hair, wearing a casual dress."
+    },
+    {
+      "id": "friend",
+      "description": "An energetic friend with short hair, dressed in a t-shirt and jeans."
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene1",
+      "emotion": "calm",
+      "present": [
+        "girl",
+        "friend"
+      ],
+      "spatial": "A serene park with a large, shady tree.",
+      "caption": "In the shade of the old tree, the world feels at peace.",
+      "dialogue": [
+        {
+          "speaker": "girl",
+          "text": "It's so nice to just sit here and relax."
+        },
+        {
+          "speaker": "friend",
+          "text": "Yeah, I love this spot!"
+        }
+      ]
+    },
+    {
+      "id": "scene2",
+      "emotion": "joyful",
+      "present": [
+        "girl",
+        "friend"
+      ],
+      "spatial": "The same park, with birds chirping and leaves rustling.",
+      "caption": "Laughter fills the air as they share stories.",
+      "dialogue": [
+        {
+          "speaker": "girl",
+          "text": "Remember that time we got lost in the city?"
+        },
+        {
+          "speaker": "friend",
+          "text": "How could I forget? We ended up at that ice cream shop!"
+        }
+      ]
+    },
+    {
+      "id": "scene3",
+      "emotion": "nostalgic",
+      "present": [
+        "girl",
+        "friend"
+      ],
+      "spatial": "The sunlight filters through the leaves, creating patterns on the ground.",
+      "caption": "Memories of childhood adventures come flooding back.",
+      "dialogue": [
+        {
+          "speaker": "girl",
+          "text": "I miss those carefree days."
+        },
+        {
+          "speaker": "friend",
+          "text": "Me too, we had so much fun back then!"
+        }
+      ]
+    },
+    {
+      "id": "scene4",
+      "emotion": "thoughtful",
+      "present": [
+        "girl"
+      ],
+      "spatial": "The park grows quieter as the evening approaches.",
+      "caption": "She contemplates the future while gazing at the horizon.",
+      "dialogue": [
+        {
+          "speaker": "girl",
+          "text": "Sometimes I wonder what we'll be doing in ten years."
+        }
+      ]
+    },
+    {
+      "id": "scene5",
+      "emotion": "supportive",
+      "present": [
+        "girl",
+        "friend"
+      ],
+      "spatial": "The tree provides a comforting backdrop as shadows lengthen.",
+      "caption": "Friendship is a source of strength during uncertain times.",
+      "dialogue": [
+        {
+          "speaker": "friend",
+          "text": "Whatever happens, we'll face it together."
+        },
+        {
+          "speaker": "girl",
+          "text": "You're right. I feel better just talking to you."
+        }
+      ]
+    },
+    {
+      "id": "scene6",
+      "emotion": "hopeful",
+      "present": [
+        "girl",
+        "friend"
+      ],
+      "spatial": "The sun sets, casting a golden hue over the park.",
+      "caption": "As day turns to night, new dreams begin to take flight.",
+      "dialogue": [
+        {
+          "speaker": "girl",
+          "text": "Let's promise to always meet here."
+        },
+        {
+          "speaker": "friend",
+          "text": "Definitely! This spot will always be ours."
+        }
+      ]
+    }
+  ]
+}

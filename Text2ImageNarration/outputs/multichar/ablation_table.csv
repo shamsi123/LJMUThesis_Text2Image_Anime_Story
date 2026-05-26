@@ -1,0 +1,8 @@
+variant,pretty,role,n_panels,FID,KID,IS,CLIP-T,CLIP-I,Caption-Acc,Face-ID,Emo-CLIP,Emo-CLIP-overt,source
+V0_full,V0_full,ablation_variant,30,278.822,0.1124,2.236,0.2064,0.8134,0.0667,0.691,0.1,0.4286,
+V1_no_styleboost,V1_no_styleboost,ablation_variant,30,307.707,0.1439,2.402,0.2113,0.6864,0.0667,0.2454,0.2,0.8333,
+V2_no_ipadapter,V2_no_ipadapter,ablation_variant,30,239.944,0.0674,1.621,0.2193,0.7949,0.1333,0.6908,0.1333,0.25,
+V3_no_vaswani,V3_no_vaswani,ablation_variant,30,282.433,0.1647,1.431,0.2071,0.8079,0.0333,0.684,0.0667,0.25,
+V4_no_ngp,V4_no_ngp,ablation_variant,30,262.103,0.1249,1.794,0.2184,0.8086,0.0667,0.6866,0.1,0.375,
+animestorygen_mistral,★ AnimeStoryGen-Mistral (proposed),canonical_framework,6,11.526,,1.268,0.2071,0.8213,,0.6022,0.1667,0.3333,animestorygen_v2_mistral_eval.json
+openai_alternative,° OpenAI backend (alternative),alternative_backend,6,16.384,,1.387,0.1752,0.7404,,0.5642,0.3333,0.0,animestorygen_v2_openai_eval.json

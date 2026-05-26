@@ -1,0 +1,11 @@
+file,caption,emotion,ner_cues,pos_cues
+1791.jpg,a painting of a woman holding a stuffed animal ,disgust,,painting|woman|holding|stuffed|animal
+1922.jpg,a close up of a picture of a girl with a cartoon face ,disgust,,close|picture|girl|cartoon|face
+1879.jpg,a close up picture of a girl with pink hair ,fear,,close|picture|girl|pink|hair
+1959.jpg,a doll with a face painted on it ,fear,,doll|face|painted
+1829.jpg,a painting of a cartoon character with a cat on his head ,disgust,,painting|cartoon|character|cat|head
+1993.jpg,a stuffed animal with a face painted on it ,disgust,,stuffed|animal|face|painted
+1875.jpg,a person wearing a clown mask ,fear,,person|wearing|clown|mask
+1860.jpg,a doll of a woman in a costume ,disgust,,doll|woman|costume
+1896.jpg,a person with a mask on ,fear,,person|mask
+1831.jpg,a woman wearing a pirate costume ,disgust,,woman|wearing|pirate|costume

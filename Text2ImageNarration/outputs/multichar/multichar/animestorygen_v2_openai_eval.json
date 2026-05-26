@@ -1,0 +1,29 @@
+{
+  "source": "AnimeStoryGen v2 multi-character (notebook 08 v2)",
+  "test_domain": "Anime \u2014 v2 in-distribution reference pool",
+  "date": "2026-05-22",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "clip_backbone": "ViT-B-32",
+  "method": {
+    "backbone": "Stable Diffusion 1.5 (StyleBoost-tuned)",
+    "sampler": "DPM-Solver++ 2M Karras",
+    "inference_steps": 50,
+    "guidance_scale": 8.5,
+    "identity_mechanism": "IP-Adapter Plus",
+    "paraphraser": "Vaswani transformer LM",
+    "prompt_enrichment": "Narrative Graph Prompting (NGP)",
+    "render_resolution": "768x768 \u2192 512x512"
+  },
+  "notes": "In-distribution reference pool; not directly comparable to Table 5.1 single-panel FID.",
+  "backend": "openai",
+  "caption_planner": "TaleCrafter S2P (OpenAI GPT-4o-mini)",
+  "n_test": 6,
+  "FID": 13.486,
+  "IS": 1.441,
+  "CLIP-T": 0.1828,
+  "CLIP-I": 0.7801,
+  "Face-ID": NaN,
+  "Emo-CLIP": 0.1667,
+  "Emo-CLIP-overt": 0.3333
+}

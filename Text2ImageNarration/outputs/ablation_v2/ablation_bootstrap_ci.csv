@@ -1,0 +1,25 @@
+variant,metric,Δ vs V0,CI95_low,CI95_high,significant,n
+V1_no_styleboost,CLIP-T,0.0049,-0.0102,0.0214,–,30
+V1_no_styleboost,CLIP-I,-0.127,-0.1718,-0.084,✓,10
+V1_no_styleboost,Face-ID,-0.4456,-0.5555,-0.3306,✓,10
+V1_no_styleboost,Emo-CLIP,0.1,-0.0667,0.3,–,30
+V1_no_styleboost,Emo-CLIP-overt,0.4048,-0.0714,0.8571,–,6
+V1_no_styleboost,Accuracy,0.1,-0.0667,0.2667,–,30
+V2_no_ipadapter,CLIP-T,0.013,-0.0023,0.0281,–,30
+V2_no_ipadapter,CLIP-I,-0.0185,-0.0623,0.025,–,10
+V2_no_ipadapter,Face-ID,-0.0002,-0.1104,0.1014,–,10
+V2_no_ipadapter,Emo-CLIP,0.0333,-0.1333,0.2,–,30
+V2_no_ipadapter,Emo-CLIP-overt,-0.1786,-0.7143,0.3393,–,8
+V2_no_ipadapter,Accuracy,0.0333,-0.1333,0.2,–,30
+V3_no_vaswani,CLIP-T,0.0007,-0.0118,0.0138,–,30
+V3_no_vaswani,CLIP-I,-0.0055,-0.0573,0.0451,–,10
+V3_no_vaswani,Face-ID,-0.007,-0.1301,0.112,–,10
+V3_no_vaswani,Emo-CLIP,-0.0333,-0.1667,0.1,–,30
+V3_no_vaswani,Emo-CLIP-overt,-0.1786,-0.5893,0.3214,–,8
+V3_no_vaswani,Accuracy,-0.0333,-0.1667,0.1,–,30
+V4_no_ngp,CLIP-T,0.0121,-0.0008,0.0252,–,30
+V4_no_ngp,CLIP-I,-0.0049,-0.0488,0.0385,–,10
+V4_no_ngp,Face-ID,-0.0044,-0.1133,0.1052,–,10
+V4_no_ngp,Emo-CLIP,0.0,-0.1667,0.1667,–,30
+V4_no_ngp,Emo-CLIP-overt,-0.0536,-0.5714,0.4821,–,8
+V4_no_ngp,Accuracy,0.0,-0.1333,0.1333,–,30
